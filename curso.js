@@ -4,5 +4,5 @@ export default {
     "Un curso introductorio sobre el manejo y aprovechamiento de impresoras 3D en proyectos escolares y personales.",
   duracion_horas: 8,
   nivel: "Básico",
-  categoria: "Tecnología y Fabricación Digital y esto es una prueba",
+  categoria: "Tecnología y Fabricación Digital",
 };
